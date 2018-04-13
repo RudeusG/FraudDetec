@@ -4,5 +4,8 @@ Fraud Detection with unsupervised Clustering<br/>
 **Overview**<br/>
 Using *k-means algorithm* we train a classifier only on legit transactions <br />
 Fraud transactions are detected,then, when they can't conform to recognized patterns<br />
-Click here to [read the notebook](Clustering2.ipynb)
-
+Two models have been made; one using all feature vectors and one using only feature vectors exhibiting different data distributions
+**Using all available data; version 1.0**<br/>
+Click here to [read the notebook](Clustering2.ipynb) 
+**Using only relevent data; version 2.0**<br/>
+Click here to [read the notebook](Clustering3.ipynb) 
